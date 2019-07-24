@@ -1,7 +1,3 @@
-server:
-  port: 8761
-
-
 eureka:
   server:
     # 是否开启自我保护（正式环境需要开启）
