@@ -16,7 +16,7 @@ eureka:
     # 是否需要从其他eureka 获取注册表信息
     fetch-registry: false
     service-url:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://192.168.11.159:8761/eureka/
 
   instance:
     hostname: 192.168.11.159
