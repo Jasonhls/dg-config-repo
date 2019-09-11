@@ -1,7 +1,7 @@
 spring:
   security:
     user:
-      name: hlss
+      name: hlshls
       password: 123
 eureka:
   server:
