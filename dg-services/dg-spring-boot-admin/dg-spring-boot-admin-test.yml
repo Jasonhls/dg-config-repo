@@ -20,5 +20,5 @@ management:
 spring:
   security:
     user:
-      name: "admin"
+      name: "admin123"
       password: "admin"
